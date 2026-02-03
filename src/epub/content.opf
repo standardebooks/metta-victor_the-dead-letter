@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/metta-victor/the-dead-letter</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-02-03T20:47:19Z</dc:date>
+		<meta property="dcterms:modified">2026-02-03T20:47:19Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,14 +50,14 @@
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A junior lawyer investigates the murder of a man engaged to a woman he has feelings for.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published under the pseudonym Seeley Regester in 1866, &lt;i&gt;The Dead Letter&lt;/i&gt; is considered to be the first full-length American detective novel. &lt;a href="https://standardebooks.org/ebooks/metta-victor"&gt;Metta Victor&lt;/a&gt; was a prolific author writing under several pen names, who pioneered the dime novel while contributing works to her husband’s publishing firm in late 19th century America.&lt;/p&gt;
-			&lt;p&gt;In this wide-ranging “American Romance,” young lawyer Richard Redfield becomes entangled in a murder investigation when the fiancee of a woman he has feelings for is knifed on the way to visit the family in upstate New York. Richard is both suspect and investigator, and engages the services of Mr. Burton, a successful detective from New York City. The action moves from a Hudson Valley village to the City, and farther along to California and Mexico before the instigator of the crime is revealed.&lt;/p&gt;
+			&lt;p&gt;Written by &lt;a href="https://standardebooks.org/ebooks/metta-victor"&gt;Metta Victor&lt;/a&gt; under the pseudonym Seeley Regester in 1866, &lt;i&gt;The Dead Letter&lt;/i&gt;, a wide-ranging “American Romance,” is considered to be the first full-length American detective novel. &lt;/p&gt;
+			&lt;p&gt;The young lawyer Richard Redfield becomes entangled in a murder investigation when the fiancee of a woman he has feelings for is knifed to death on her way to visit the family in upstate New York. Richard is both suspect and investigator, and engages the services of Mr. Burton, a successful detective from New York City. The action moves from a Hudson Valley village to the City, and farther along to California and Mexico, before the perpetrator is revealed.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46708</dc:source>
 		<dc:source>https://archive.org/details/deadletterameric00victiala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">94893</meta>
+		<meta property="se:reading-ease.flesch">67.49</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/metta-victor_the-dead-letter</meta>
 		<dc:creator id="author">Metta Victor</dc:creator>
 		<meta property="file-as" refines="#author">Victor, Metta</meta>
@@ -89,6 +89,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
