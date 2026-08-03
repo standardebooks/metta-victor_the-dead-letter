@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/metta-victor/the-dead-letter</dc:identifier>
 		<dc:date>2026-02-03T20:47:19Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta property="schema:genre">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">A junior lawyer investigates the murder of a man engaged to a woman he has feelings for.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A junior lawyer investigates the murder of a man engaged to a woman he has feelings for.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Written by &lt;a href="https://standardebooks.org/ebooks/metta-victor"&gt;Metta Victor&lt;/a&gt; under the pseudonym Seeley Regester in 1866, &lt;i&gt;The Dead Letter&lt;/i&gt;, a wide-ranging “American Romance,” is considered to be the first full-length American detective novel.&lt;/p&gt;
 			&lt;p&gt;The young lawyer Richard Redfield becomes entangled in a murder investigation when the fiancee of a woman he has feelings for is knifed to death on her way to visit the family in upstate New York. Richard is both suspect and investigator, and engages the services of Mr. Burton, a successful detective from New York City. The action moves from a Hudson Valley village to the City, and farther along to California and Mexico, before the perpetrator is revealed.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46708</dc:source>
 		<dc:source>https://archive.org/details/deadletterameric00victiala</dc:source>
